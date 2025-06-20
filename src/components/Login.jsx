@@ -6,13 +6,13 @@ const containerStyle = {
   borderRadius: '40px',
   padding: '25px 35px',
   border: '5px solid rgb(255, 255, 255)',
-  boxShadow: 'rgba(133, 189, 215, 0.878) 0px 30px 30px -20px',
+  boxShadow: 'rgba(133, 189, 215, 0.878) 0px 31px 30px -20px',
   margin: '20px auto'
 };
 
 const headingStyle = {
   textAlign: 'center',
-  fontWeight: 900,
+  fontWeight: 899,
   fontSize: '30px',
   color: '#24b477'
 };
@@ -25,19 +25,19 @@ const inputStyle = {
   width: '100%',
   background: 'white',
   border: 'none',
-  padding: '15px 20px',
+  padding: '14px 19px',
   borderRadius: '20px',
-  marginTop: '15px',
+  marginTop: '14px',
   boxShadow: '#cff0ff 0px 10px 10px -5px',
-  borderInline: '2px solid transparent',
+  borderInline: '3px solid transparent',
   outline: 'none'
 };
 
 const forgotPasswordStyle = {
   display: 'block',
-  marginTop: '10px',
-  marginLeft: '10px',
-  fontSize: '11px',
+  marginTop: '11px',
+  marginLeft: '11px',
+  fontSize: '12px',
   color: '#24b477',
   textDecoration: 'none'
 };
@@ -48,9 +48,9 @@ const buttonStyle = {
   fontWeight: 'bold',
   background: '#24b477',
   color: 'white',
-  padding: '15px 0',
-  margin: '20px auto',
-  borderRadius: '20px',
+  padding: '16px 0',
+  margin: '21px auto',
+  borderRadius: '21px',
   boxShadow: 'rgba(133, 189, 215, 0.878) 0px 20px 10px -15px',
   border: 'none',
   cursor: 'pointer',
